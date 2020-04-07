@@ -635,17 +635,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C0234602KPFC3JA6</string>
+			<string></string>
 			<key>ROM</key>
-			<data>/KoUwHT7</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac14,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02K5A55F8JC</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>2BD26AAF-5D6A-4AE2-9E47-334460C5340B</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
