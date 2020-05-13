@@ -20,6 +20,11 @@ Follow the [guide](https://dortania.github.io/OpenCore-Desktop-Guide/installer-g
 
 Follow the [guide](https://dortania.github.io/OpenCore-Desktop-Guide/config.plist/haswell.html) to prepare the config.plist
 
+## USB Mapping
+
+![Image](../blob/master/images/USBMap1.png?raw=true)
+![Image](../blob/master/images/USBMap2.png?raw=true)
+
 ## Note
 
 I need to enable CSM in bios in order to see the OpenCore boot menu when using RX 580 + HDMI
