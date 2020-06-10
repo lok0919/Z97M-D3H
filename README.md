@@ -1,4 +1,4 @@
-# GA-Z97M-D3H macOS 10.15.4 (19E287) Opencore 0.5.8
+# GA-Z97M-D3H macOS 10.15.4 (19E287) Opencore 0.5.9
 
 ## System Specs
 
