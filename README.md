@@ -1,4 +1,4 @@
-# GA-Z97M-D3H macOS 10.15.5 (19F101) Opencore 0.6.0
+# GA-Z97M-D3H macOS 10.15.5 (19F101) Opencore 0.6.3
 
 ## System Specs
 
